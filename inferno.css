@@ -5,7 +5,7 @@ body{
     
  }
  .logo{
-     height: auto;
+     height: 0auto;
      width: 70%;
      margin: 0 auto; 
  }
