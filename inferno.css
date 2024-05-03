@@ -27,6 +27,7 @@ body{
      display: inline-block;
      margin: 5px;
      border-radius: 20px;
+     height: auto;
      
  }
  .card .nome{
